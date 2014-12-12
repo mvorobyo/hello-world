@@ -1,6 +1,4 @@
 hello-world
 ===========
 
-Hello humans,
-
-Blah blah blah...
+What a good README
