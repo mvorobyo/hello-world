@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another repository
+What a good README
